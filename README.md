@@ -6,4 +6,5 @@ Day 5 [devlog](https://medium.com/@victoria2666/100-days-of-code-day-4-of-100-3e
 
 ## The Project
 - Built with JavaScript, nodejs and npm puppeteer.
-- Run using command line `node scraper.js`
+- Install puppeteer by `npm install puppeteer`
+- Then run using command line `node scraper.js`
