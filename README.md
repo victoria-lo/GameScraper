@@ -1,4 +1,4 @@
-# GameScraper :game:
+# GameScraper :video_game:
 **Scraping the latest Nintendo games!**
 > 100DaysOfCode: Day 5
 
